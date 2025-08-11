@@ -1,3 +1,29 @@
+# Responsive Web Page – Figma Design Implementation
+
+This project is a **responsive (mobile & desktop)** web page built based on a provided Figma design, using **React**, **Tailwind CSS**, and **JavaScript**.
+
+---
+
+## 📌 Project Overview
+
+The goal is to replicate the provided Figma design as closely as possible in a web implementation, ensuring:
+
+- **Pixel-perfect** UI matching the design
+- **Responsive layout** for both desktop and mobile
+- **Clean, maintainable code** following modern best practices
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Component-based UI
+- **Tailwind CSS** – Utility-first CSS framework
+- **JavaScript (ES6)** – Core scripting
+- **HTML5** – Semantic markup
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
